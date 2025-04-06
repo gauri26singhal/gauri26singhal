@@ -14,34 +14,19 @@
 
 ---
 
-### 💫 About Me:
-✨ A curious mind with a creative soul — blending **logic** with **design** to craft tech that truly matters.  
-⚡ I don’t just code — I **build experiences**. From solving DSA puzzles to designing intuitive UIs, I love turning ideas into impactful products.
+Name: Gauri Singhal
+Education: B.Tech CSE @ PIET, Jaipur (2022–2026)
+Interests:
+  - Software Development (MERN Stack 💻)
+  - Design Thinking 🎨
+  - Problem Solving 🧠
+  - Tech for Good 🌍
+  - Reading & Reflecting 📖
+
+
+> 💬 I’m a builder at heart — I love crafting meaningful tech that makes life easier, cooler, and more delightful.
 
 ---
-
-### 🎯 What Drives Me:
-- 💻 Full-Stack Development (MERN Stack)
-- 🎨 UI/UX & Design Thinking
-- 🧠 Problem Solving & Algorithms
-- 🌍 Tech for Social Impact
-- 📚 Reading + Deep Reflection
-
----
-
-> 🛠️ *"I believe great tech isn't just functional — it's thoughtful, beautiful, and built with purpose."*  
-> Let's build something extraordinary 🚀
-
-
-### 🚀 What I Do
-- 📊 Data Structures & Algorithms
-- 🌐 Web Development (React.js, Express.js, MongoDB, Node.js)
-- 🎯 Java Programming (OOP, JDBC, Hibernate)
-- 🤖 AI/ML Fundamentals (Exploring!)
-- 🌱 Learning Next.js & TypeScript
-
----
-
 ### 🛠 Tools & Technologies
 
 <div align="center">
