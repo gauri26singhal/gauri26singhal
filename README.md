@@ -1,9 +1,14 @@
-<h1 align="center">Hey there, I'm Gauri Singhal 👩‍💻✨</h1>
+<h1 align="center">Hey there, I'm <span style="color:#F76D9B;">Gauri Singhal</span> 👩‍💻✨</h1>
 <h3 align="center">🌼 A developer by profession, an explorer by passion, and a perfectionist at heart 🌼</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=24&pause=1000&color=F76D9B&center=true&vCenter=true&width=800&lines=Innovator.+Developer.+Thinker.+Dreamer.;Always+learning+something+new...;Driven+by+curiosity+%26+code.;DSA+Lover+%7C+Problem+Solver;Hackathon+Enthusiast+%7C+Team+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76D9B&center=true&vCenter=true&width=850&lines=👩‍💻+Innovator.+Developer.+Thinker.+Dreamer.;🚀+Always+learning+something+new...;🔍+Driven+by+curiosity+%26+code.;📊+DSA+Lover+%7C+Problem+Solver;🏆+Hackathon+Enthusiast+%7C+Team+Player" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+</p>
+
 
 
 ---
