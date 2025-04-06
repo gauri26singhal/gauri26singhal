@@ -84,6 +84,9 @@ Interests:
   <a href="https://github.com/gauri26singhal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-gauri--singhal-black?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.naukri.com/code360/profile/2c52bec7-47b1-42b1-9a15-af00494433db" target="_blank">
+    <img src="https://img.shields.io/badge/Code360-Gauri%20Singhal-orange?style=for-the-badge&logo=codeforces" />
+  </a>
 </p>
 
 ---
