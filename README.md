@@ -9,7 +9,7 @@
 
 <!-- Dev GIF for Visual Impact -->
 <p align="center">
-  <img src="https://media.giphy.com/media/EFN5D1pQn9k0kxS6zF/giphy.gif" width="500" alt="Coding Girl Aesthetic" />
+  <img src="https://media.giphy.com/media/3ohhwH6y0fHXtZ3zJq/giphy.gif" width="500" alt="Desk Coder Girl" />
 </p>
 
 
