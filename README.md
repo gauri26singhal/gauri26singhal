@@ -76,16 +76,16 @@ Interests:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gauri-singhal-876b41254/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Gauri%20Singhal-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gaurisinghal26@gmail.com">
-   
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/gauri26singhal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-gauri--singhal-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.naukri.com/code360/profile/2c52bec7-47b1-42b1-9a15-af00494433db" target="_blank">
-    <img src="https://img.shields.io/badge/Code360-Gauri%20Singhal-orange?style=for-the-badge&logo=codeforces" />
+    <img src="https://img.shields.io/badge/Code360-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
