@@ -9,8 +9,9 @@
 
 <!-- Dev GIF for Visual Impact -->
 <p align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="500" alt="Typing Girl Coding" />
+  <img src="https://media.giphy.com/media/EFN5D1pQn9k0kxS6zF/giphy.gif" width="500" alt="Coding Girl Aesthetic" />
 </p>
+
 
 
 
