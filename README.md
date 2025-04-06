@@ -1,13 +1,25 @@
-<h1 align="center">Hey there, I'm <strong>Gauri Singhal</strong> 👩‍💻✨</h1>
-<h3 align="center">🌼 A developer by profession, an explorer by passion, and a perfectionist at heart 🌼</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76D9B&center=true&vCenter=true&width=850&lines=👩‍💻+Innovator.+Developer.+Thinker.+Dreamer.;🚀+Always+learning+something+new...;🔍+Driven+by+curiosity+%26+code.;📊+DSA+Lover+%7C+Problem+Solver;🏆+Hackathon+Enthusiast+%7C+Team+Player" alt="Typing SVG" />
+  <img src="https://i.imgur.com/8Km9tLL.gif" alt="Banner" width="100%" />
+</p>
+<!-- Background Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/8Km9tLL.gif" alt="Banner" width="100%" />
 </p>
 
+<!-- Your Name & Intro -->
+<h1 align="center">✨ Hey there, I'm <strong>Gauri Singhal</strong> 👩‍💻</h1>
+<h3 align="center">🌸 Developer | Explorer | Perfectionist 🌸</h3>
+
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Animated Dev" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F76D9B&center=true&vCenter=true&width=900&lines=👩‍💻+Innovator.+Developer.+Thinker.+Dreamer.;🚀+Always+learning+something+new...;🔍+Driven+by+curiosity+%26+code.;📚+DSA+Lover+%7C+Problem+Solver;🏆+Hackathon+Enthusiast+%7C+Team+Player;💡+Building+projects+that+solve+real+problems" alt="Typing SVG" />
 </p>
+
+<!-- Coder GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coder GIF" />
+</p>
+
 
 
 ---
