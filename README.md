@@ -9,8 +9,9 @@
 
 <!-- Dev GIF for Visual Impact -->
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="Terminal hacker" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Matrix" />
 </p>
+
 
 
 
@@ -18,7 +19,6 @@
 
 ---
 ### 🌟 About Me
-yaml
 Name: Gauri Singhal
 Education: B.Tech CSE @ PIET, Jaipur (2022–2026)
 Interests:
