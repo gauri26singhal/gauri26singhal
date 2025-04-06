@@ -1,18 +1,16 @@
-<!-- Fancy Welcome Header -->
+<!-- Banner Typing Animation with Black Background -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76D9B&background=000000&center=true&vCenter=true&width=900&lines=👩‍💻+Innovator.+Developer.+Thinker.+Dreamer.;🚀+Always+learning+something+new...;🔍+Driven+by+curiosity+%26+code.;📚+DSA+Lover+%7C+Problem+Solver;🏆+Hackathon+Enthusiast+%7C+Team+Player;💡+Building+projects+that+solve+real+problems" alt="Typing SVG" />
+</p>
+
+<!-- Name & Tagline -->
 <h1 align="center">✨ Hey there, I'm <strong>Gauri Singhal</strong> 👩‍💻</h1>
 <h3 align="center">🌸 Developer | Explorer | Perfectionist 🌸</h3>
 
-<!-- Typing Animation -->
+<!-- Dev GIF for Visual Impact -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F76D9B&center=true&vCenter=true&width=900&lines=👩‍💻+Innovator.+Developer.+Thinker.+Dreamer.;🚀+Always+learning+something+new...;🔍+Driven+by+curiosity+%26+code.;📚+DSA+Lover+%7C+Problem+Solver;🏆+Hackathon+Enthusiast+%7C+Team+Player;💡+Building+projects+that+solve+real+problems" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Girl GIF" />
 </p>
-
-<!-- Aesthetic Dev GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coder GIF" />
-</p>
-
-
 
 
 
