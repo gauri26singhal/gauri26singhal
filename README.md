@@ -1,17 +1,17 @@
-<!-- Stylish Intro with Typing Animation on Black Background -->
-
-<h1 align="center">✨ Hey there, I'm <strong>Gauri Singhal</strong> 👨‍💻</h1>
+<!-- Fancy Welcome Header -->
+<h1 align="center">✨ Hey there, I'm <strong>Gauri Singhal</strong> 👩‍💻</h1>
 <h3 align="center">🌸 Developer | Explorer | Perfectionist 🌸</h3>
 
-<!-- Typing SVG with Background -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=1000&lines=👩‍💻+Innovator.+Developer.+Thinker.+Dreamer.;🚀+Always+learning+something+new...;🔍+Driven+by+curiosity+%26+code.;📚+DSA+Lover+%7C+Problem+Solver;🏆+Hackathon+Enthusiast+%7C+Team+Player;💡+Building+projects+that+solve+real+problems" alt="Typing SVG with BG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F76D9B&center=true&vCenter=true&width=900&lines=👩‍💻+Innovator.+Developer.+Thinker.+Dreamer.;🚀+Always+learning+something+new...;🔍+Driven+by+curiosity+%26+code.;📚+DSA+Lover+%7C+Problem+Solver;🏆+Hackathon+Enthusiast+%7C+Team+Player;💡+Building+projects+that+solve+real+problems" alt="Typing SVG" />
 </p>
 
-<!-- Clean Coding GIF -->
+<!-- Aesthetic Dev GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="Code Vibes" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coder GIF" />
 </p>
+
 
 
 
