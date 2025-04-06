@@ -2,8 +2,9 @@
 <h3 align="center">🌼 A developer by profession, an explorer by passion, and a perfectionist at heart 🌼</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=24&pause=1000&color=F76D9B&center=true&vCenter=true&width=800&lines=Innovator.+Developer.+Thinker.+Dreamer.;Always+learning+something+new...;Driven+by+curiosity+%26+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=24&pause=1000&color=F76D9B&center=true&vCenter=true&width=800&lines=Innovator.+Developer.+Thinker.+Dreamer.;Always+learning+something+new...;Driven+by+curiosity+%26+code.;DSA+Lover+%7C+Problem+Solver;Hackathon+Enthusiast+%7C+Team+Player" alt="Typing SVG" />
 </p>
+
 
 ---
 ### 🌟 About Me
