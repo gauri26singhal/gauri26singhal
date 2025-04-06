@@ -87,7 +87,15 @@ Interests:
   <a href="https://www.naukri.com/code360/profile/2c52bec7-47b1-42b1-9a15-af00494433db" target="_blank">
     <img src="https://img.shields.io/badge/Code360-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/its_gaurisinghal/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/codegaurii/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
+
+
 
 ---
 
