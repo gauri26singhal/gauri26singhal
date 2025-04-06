@@ -9,11 +9,6 @@
 
 ---
 ### 🌟 About Me
-### 👩‍💻 Gauri Singhal  
-**B.Tech CSE @ PIET, Jaipur (2022–2026)**  
-
----
-
 Name: Gauri Singhal
 Education: B.Tech CSE @ PIET, Jaipur (2022–2026)
 Interests:
