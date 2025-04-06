@@ -79,7 +79,7 @@ Interests:
     <img src="https://img.shields.io/badge/LinkedIn-Gauri%20Singhal-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:gaurisinghal26@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-gaurisinghal26@gmail.com-D14836?style=for-the-badge&logo=gmail" />
+   
   </a>
   <a href="https://github.com/gauri26singhal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-gauri--singhal-black?style=for-the-badge&logo=github" />
