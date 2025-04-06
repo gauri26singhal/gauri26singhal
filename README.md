@@ -8,9 +8,7 @@
 <h3 align="center">🌸 Developer | Explorer | Perfectionist 🌸</h3>
 
 <!-- Dev GIF for Visual Impact -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohhwH6y0fHXtZ3zJq/giphy.gif" width="500" alt="Desk Coder Girl" />
-</p>
+
 
 
 
