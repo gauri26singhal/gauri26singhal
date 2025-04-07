@@ -4,7 +4,7 @@
 </p>
 
 <!-- Name & Tagline -->
-<h1 align="center">✨ Hey there, I'm <strong>Gauri Singhal</strong> 👩‍💻</h1>
+<h1 align="center">✨ Hey, I'm <strong>Gauri Singhal</strong> 👩‍💻</h1>
 <h3 align="center">🌸 Developer | Explorer | Perfectionist 🌸</h3>
 
 ---
