@@ -56,7 +56,7 @@ Interests:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gauri26singhal&show_icons=true&theme=tokyonight&hide_border=true" alt="Gauri's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gauri26singhal&theme=nightowl&hide_border=true" alt="Gauri's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauri26singhal&theme=tokyonight" width="48%"/>
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri26singhal&layout=compact&theme=dracula&hide_border=true" />
 </p>
