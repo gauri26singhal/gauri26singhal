@@ -87,6 +87,9 @@ Interests:
 </p>
 
 
+---
+
+![snake gif](https://github.com/gauri26singhal/gauri26singhal/blob/output/github-snake.svg)
 
 ---
 
