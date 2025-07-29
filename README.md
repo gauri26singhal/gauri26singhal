@@ -29,7 +29,7 @@ Interests:
 | Tech Stack 💻 | Tools & Platforms 🧰 |
 |--|--|
 | ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react) ![Node](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb) | ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual-studio-code) |
-| ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=for-the-badge&logo=springboot) | ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman) ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma) |
+| ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)  | ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman) ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma) |
   
 </div>
 
